@@ -2,7 +2,7 @@ let grandParent = document.querySelectorAll(".grand-parent");
 let parent = document.querySelectorAll(".parent");
 let child = document.querySelectorAll(".child");
 
-// capture phase
+// capture phase --
 window.addEventListener(
   "click",
   e => {
